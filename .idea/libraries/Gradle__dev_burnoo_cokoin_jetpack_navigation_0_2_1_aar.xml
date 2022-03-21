@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: dev.burnoo:cokoin-jetpack-navigation:0.2.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/2006f6a5e1ae6753b7b25a34ea16f97e/transformed/jetified-cokoin-jetpack-navigation-0.2.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2006f6a5e1ae6753b7b25a34ea16f97e/transformed/jetified-cokoin-jetpack-navigation-0.2.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2006f6a5e1ae6753b7b25a34ea16f97e/transformed/jetified-cokoin-jetpack-navigation-0.2.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.burnoo/cokoin-jetpack-navigation/0.2.1/735807f9f9d585c54cfd3e9214a6be60232ea00a/cokoin-jetpack-navigation-0.2.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.burnoo/cokoin-jetpack-navigation/0.2.1/2b86be6c3ec5c8b052bdca8fc3973ac98aab93/cokoin-jetpack-navigation-0.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
